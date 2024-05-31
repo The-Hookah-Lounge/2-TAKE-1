@@ -1,2 +1,7 @@
 # 2-TAKE-1
-2 Take 1 source code 
+
+💻 open .sln file with visual studio
+
+🚨 build in release and x64
+
+❔ https://discord.gg/rrjYtJzcGA for help
